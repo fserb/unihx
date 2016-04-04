@@ -7,6 +7,6 @@
 	"classPath": "src",
 	"version": "0.0.1",
 	"releasenote": "First release; Still unstable",
-	"contributors": ["waneck"],
+	"contributors": ["fserb", "waneck"],
 	"dependencies": {}
 }
